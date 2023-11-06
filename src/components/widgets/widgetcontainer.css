@@ -1,0 +1,7 @@
+.widget-container {
+  width: fit-content;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+  padding: 20px;
+  border-radius: 15px;
+  background-color: rgba(240, 128, 128, 0.795);
+}
